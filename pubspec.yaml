@@ -1,7 +1,7 @@
 name: do_progress_bar
 description: This package helps to generate a simple progress bar with color according to progress.
 version: 0.0.1
-homepage: https://github.com/PanchoDP
+homepage: https://github.com/PanchoDP/do_progress_bar
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
