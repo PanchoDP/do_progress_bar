@@ -4,7 +4,8 @@ This package helps to generate a simple progress bar with color according to pro
 
 ## Getting Started
 
-'''
+```
+
 
 /// [title] Title of Progress Bar.
 /// [width] Width of Progress Bar px.
@@ -20,4 +21,4 @@ This package helps to generate a simple progress bar with color according to pro
      secondlimit: 70, 
 )
          
-'''
+```
