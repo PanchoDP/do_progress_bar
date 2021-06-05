@@ -22,4 +22,8 @@ This package helps to generate a simple progress bar with color according to pro
 )
          
 ```
+
+## View of Example.
+
+
 ![examples](https://raw.githubusercontent.com/PanchoDP/imagenes/main/progressbar.png)
